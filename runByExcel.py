@@ -5,7 +5,7 @@ from academic import *
 
 
 
-#------ set up file ------#
+#------ set up file : Edit here ------#
 
 reg_file = reqFileDir+ "/reg_2020FEST.xlsx"
 key_file = reqFileDir+ "/key_2020FEST.xlsx"
